@@ -1,0 +1,17 @@
+ACTIVE PARTNER — PHONE INSTALL
+
+This folder is the complete installable web-app package. Keep all files together.
+
+1. Publish the folder as a static website with an HTTPS address. GitHub Pages is
+   one option. Create a public repository, upload these files to its root, then
+   open Settings > Pages and choose Deploy from a branch, main, /(root), Save.
+   The resulting address will look like https://USERNAME.github.io/REPOSITORY/.
+   A GitHub Pages site is public, so do not put private information or API keys here.
+
+2. Android: open that HTTPS address in Chrome, tap ⋮, choose Install app (or
+   Add to Home screen), then confirm Install.
+
+3. iPhone: open the same address in Safari, tap Share, choose Add to Home Screen,
+   then tap Add.
+
+Opening index.html directly from a computer folder does not install the app.
